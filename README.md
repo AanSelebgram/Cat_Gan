@@ -1,0 +1,2 @@
+# Cat_Gan
+pkg Install python2 pip2 Install rsa pip2 Install requests pip2 Install thrift==0.9.3 pkg install git Pkg Install nano Pkg install vim pip install gtts  pip2 install gtts pip install goslate  pip2 install goslate  pip install wikipedia  pip2 install wikipedia  pip install BeautifulSoup4  pip2 install BeautifulSoup4 git clone https://github.com/AanSelebgram/Cat_Gan ls cd Cat_Gan ls python2 CatBot_Protect.py
